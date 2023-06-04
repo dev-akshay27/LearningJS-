@@ -17,4 +17,4 @@ console.log(addNums(5));
 
 //Can also use with forEach loop
 
-todos.forEach((todos) => console.log(todo));
+//todos.forEach((todos) => console.log(todo));
